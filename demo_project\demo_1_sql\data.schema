@@ -1,0 +1,8 @@
+`id` STRING,
+`name` STRING,
+`created_at` STRING,
+`picture_url` STRING,
+`owners` ARRAY <STRUCT <`id`: STRING>>,
+`users` ARRAY <STRUCT <`email`:STRING,
+`id`: STRING,
+`name`: STRING>>
