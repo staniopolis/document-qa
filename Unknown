@@ -1,0 +1,1 @@
+Please check the column name in your Spark SQL query. If you intended to use the `created_at` column, ensure that it exists in your data source. If it's a typo, correct it to one of the existing columns: [`name`, `id`, `owners`, `users`, `picture_url`].
