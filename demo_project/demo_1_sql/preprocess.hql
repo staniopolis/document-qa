@@ -1,11 +1,1 @@
-select
-  id,
-  name,
-  create_at,
-  picture_url,
-  owners,
-  users,
-  CURRENT_TIMESTAMP AS dp_create_timestamp,
-  CURRENT_TIMESTAMP AS dp_update_timestamp
-FROM
-  ${extractedData}
+c2VsZWN0CiAgaWQsCiAgbmFtZSwKICBjcmVhdGVkX2F0LAogIHBpY3R1cmVfdXJsLAogIG93bmVycywKICB1c2VycywKICBDVVJSRU5UX1RJTUVTVEFNUCBBUyBkcF9jcmVhdGVfdGltZXN0YW1wLAogIENVUlJFTlRfVElNRVNUQU1QIEFTIGRwX3VwZGF0ZV90aW1lc3RhbXAKRlJPTQogICR7ZXh0cmFjdGVkRGF0YX0=
