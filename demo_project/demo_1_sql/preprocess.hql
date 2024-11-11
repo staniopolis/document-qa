@@ -1,7 +1,7 @@
 select
   id,
   name,
-  create_at,
+  
   picture_url,
   owners,
   users,
