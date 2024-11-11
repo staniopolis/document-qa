@@ -9,3 +9,4 @@ select
   CURRENT_TIMESTAMP AS dp_update_timestamp
 FROM
   ${extractedData}
+created_at,
